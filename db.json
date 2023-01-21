@@ -1,0 +1,344 @@
+{
+  "personagens": [
+    {
+      "id": "goku",
+      "nome": "Goku",
+      "raça": "Saiyajin",
+      "género masculino",
+      "bio": "Goku, nascido Kakarot, é um Saiyajin masculino e o principal protagonista da série Dragon Ball. Goku é um Saiyajin originalmente enviado à Terra quando criança com a missão de destruir seu povo. No entanto, um acidente altera sua memória , permitindo que ele crescesse para se tornar o maior defensor da Terra e o líder informal do Dragon Team. Ele constantemente se esforça e treina para ser o maior guerreiro possível, o que muitas vezes manteve a Terra e o universo a salvo da destruição.",
+      "saúde": "500.000",
+      "ataque": "50.000",
+      "defesa": "50.000",
+      "kiRestoreSpeed": "50.000",
+      "habilidades": [
+        "Transformações do Super Saiyajin",
+        "Super Kamehameha",
+        "Punho do Super Dragão"
+      ],
+      "img": "assets/goku.png"
+    },
+    {
+      "id": "vegeta",
+      "nome": "Vegeta",
+      "raça": "Saiyajin",
+      "género masculino",
+      "bio": "Vegeta é o príncipe de uma raça extraterrestre de guerreiros conhecida como Saiyajins, assim como o protagonista da série, Goku. Vegeta é extremamente vaidoso e orgulhoso, referindo-se constantemente à sua herança ao longo da série. Ele acredita que deve ser considerado como o lutador mais forte do universo e fica obcecado em superar Goku depois de lutar com ele. vilão para anti-herói e mais tarde como um dos heróis, permanecendo um rival de Goku. O personagem de Vegeta, particularmente sua personalidade, foi bem recebido. Ele é um dos personagens mais populares da franquia Dragon Ball.",
+      "saúde": "490.000",
+      "ataque": "49.000",
+      "defesa": "49.000",
+      "kiRestoreSpeed": "49.000",
+      "habilidades": [
+        "Transformações do Super Saiyajin",
+        "Flash Final",
+        "Ataque Big Bang"
+      ],
+      "img": "assets/vegeta.png"
+    },
+    {
+      "id": "gohan",
+      "nome": "Gohan",
+      "raça": "Humano/Saiyajin",
+      "género masculino",
+      "bio": "Gohan é um personagem fictício da série de mangá Dragon Ball, criada por Akira Toriyama. Gohan é apresentado como o primeiro filho do protagonista Goku, e sua esposa Chi-Chi, no capítulo #196 Kakarrot, publicado pela primeira vez em Revista semanal Shōnen Jump em 8 de outubro de 1988. Chi-Chi é uma mãe rígida e protetora para Gohan, forçando-o a se concentrar em seus estudos e proibindo-o de praticar artes marciais. No entanto, devido às várias ameaças à Terra, ela relutantemente permite que ele lute, com ele finalmente se tornando um dos personagens mais fortes da série. Gohan foi bem recebido por fãs e críticos, o último geralmente citando o crescimento do personagem desde sua aparição inicial até a derrota de Cell.",
+      "saúde": "440.000",
+      "ataque": "38.000",
+      "defesa": "38.000",
+      "kiRestoreSpeed": "39.000",
+      "habilidades": [
+        "Transformações do Super Saiyajin",
+        "Super Kamehameha",
+        "Masenko"
+      ],
+      "img": "assets/gohan.png"
+    },
+    {
+      "id": "troncos",
+      "nome": "Troncos",
+      "raça": "Humano/Saiyajin",
+      "género masculino",
+      Batalha dos Deuses, Trunks usa macacão e uma camiseta azul com pulseiras marrons. No final de Dragon Ball Z, Trunks agora veste uma camisa preta de manga comprida, um colete dourado, calça cinza escuro e as mesmas botas douradas que usava quando criança. Mais tarde, ele usa uma camisa preta sem mangas com o logotipo da CAPSULE no centro da camisa, calça cinza e botas de sua infância.",
+      "saúde": "470.000",
+      "ataque": "44.000",
+      "defesa": "43.000",
+      "kiRestoreSpeed": "40.000",
+      "habilidades": [
+        "Transformações do Super Saiyajin",
+        "Pistola Galega",
+        "Finish Buster"
+      ],
+      "img": "assets/trunks.png"
+    },
+    {
+      "id": "frieza",
+      "nome": "Freeza",
+      "raça": "Desconhecido",
+      "género masculino",
+      "bio": "Frieza, romanizado como Freeza em mercadorias japonesas, legendas em inglês da Funimation e lançamento do mangá da Viz Media, é um personagem fictício da série de mangá Dragon Ball criada por Akira Toriyama. Frieza faz sua estréia no Capítulo #247: Dark Clouds Swirl Over Planet Namek, publicado pela primeira vez na revista Weekly Shōnen Jump em 6 de outubro de 1989, como um tirano galáctico temido como o ser mais poderoso do universo. Apesar de não aparecer até a segunda metade do mangá, Frieza é considerado o mais icônico antagonista da franquia Dragon Ball por servir efetivamente como o catalisador de muitos dos eventos retratados na história, como a chegada de Goku na Terra, o pouso dos Saiyajins na Terra e, posteriormente, os personagens principais indo para o planeta Namekusei. o próprio mangá,ele também é diretamente responsável pelo assassinato do pai de Goku, Bardock, o genocídio da raça Saiyajin, a morte de Vegeta e a segunda morte do melhor amigo de Goku, Kuririn, sem dúvida tornando-o o inimigo mais pessoal e significativo de Goku, e o confronto final entre Goku e Frieza foram aclamados como uma das batalhas de mangá e anime mais memoráveis ​​de todos os tempos.",
+      "saúde": "475.000",
+      "ataque": "47.000",
+      "defesa": "47.000",
+      "kiRestoreSpeed": "44.000",
+      "habilidades": [
+        "Laser Ocular",
+        "Raio da Morte",
+        "Bola da Morte"
+      ],
+      "img": "assets/freeza.png"
+    },
+    {
+      "id": "célula",
+      "nome": "Célula",
+      "raça": "Android",
+      "género masculino",
+      "bio": "Cell é a criação definitiva do Dr. Gero, que veio de uma linha do tempo futura, projetada para possuir todas as habilidades dos maiores lutadores que já habitaram ou visitaram a Terra; o resultado foi um guerreiro perfeito, possuindo numerosos traços genéticos e habilidades especiais. Ele foi um dos poucos Androids Red Ribbon não completados diretamente pelo Dr. Gero; ele foi completado pelo supercomputador do Dr. Gero. Ele é o principal antagonista das Sagas Imperfect Cell, Perfect Cell e Cell Games. ",
+      "saúde": "200.000",
+      "ataque": "20.000",
+      "defesa": "20.000",
+      "kiRestoreSpeed": "20.000",
+      "habilidades": [
+        "Escudo de Energia",
+        "Super Kamehameha",
+        "Disco Destruído"
+      ],
+      "img": "assets/cell.png"
+    },
+    {
+      "id": "buu",
+      "nome": "Buu",
+      "raça": "Majin",
+      "género masculino",
+      "bio": "Majin Boo, geralmente soletrado Majin Boo nas legendas do anime japonês, e renderizado como Djinn-Boo no mangá Viz Media, é um personagem fictício e o antagonista final da série de mangá Dragon Ball criada por Akira Toriyama. Ele é apresentado no capítulo # 460 Majin Boo aparece?! Majin Bū Shutsugen ka!?) publicado pela primeira vez na revista Weekly Shōnen Jump em 1º de março de 1994. Majin Boo é uma forma de vida mágica semelhante a um gênio criada pelo malvado feiticeiro Bibidi que aterrorizou galáxias destruindo planetas inteiros, milhões de anos antes dos eventos de Dragon Ball acontecerem. Ele foi temporariamente selado e trazido para a Terra; no entanto, Bibbidi foi morto e Buu permaneceu escondido. Durante os eventos de Dragon Ball, ele é revivido por Bibidi filho Babidi para levar adiante o plano de seu pai de conquistar o universo inteiro.",
+      "saúde": "350.000",
+      "ataque": "29.000",
+      "defesa": "29.000",
+      "kiRestoreSpeed": "28.000",
+      "habilidades": [
+        "Absorção",
+        "Cura",
+        "Raio de Chocolate"
+      ],
+      "img": "assets/buu.png"
+    },
+    {
+      "id": "beerus",
+      "nome": "Beerus",
+      "raça": "Deus",
+      "género masculino",
+      Este último o leva a procurar o Deus Super Saiyajin, que acaba sendo um dos Saiyajins que agora vivem na Terra. Eventualmente, Son Goku, com a ajuda de outros Saiyajins, se transforma no Deus Super Saiyajin e luta contra Beerus, apenas para ser derrotado pelo Deus da Destruição. Tendo gostado da partida, Beerus poupa Goku e a Terra, dizendo que Goku foi o segundo oponente mais forte que ele já enfrentou; primeiro sendo seu zelador e professor de artes marciais, Whis.", dizendo que Goku foi o segundo oponente mais forte que ele já enfrentou; primeiro sendo seu zelador e professor de artes marciais, Whis.", dizendo que Goku foi o segundo oponente mais forte que ele já enfrentou; primeiro sendo seu zelador e professor de artes marciais, Whis.",
+      "saúde": "600.000",
+      "ataque": "60.000",
+      "defesa": "60.000",
+      "kiRestoreSpeed": "50.000",
+      "habilidades": [
+        "Esfera da Destruição",
+        "Deuses da Destruição, Ataque Feroz",
+        "Hakai"
+      ],
+      "img": "assets/beerus.png"
+    },
+    {
+      "id": "piccolo",
+      "nome": "Picolo",
+      "raça": "Namekian",
+      "género masculino",
+      "bio": "Piccolo Jr., geralmente chamado apenas de Piccolo, também conhecido como Ma Junior, é um Namekuseijin e também o último filho e reencarnação do Rei Demônio Piccolo, posteriormente se tornando a reunificação do Namekuseijin sem nome após a fusão com Kami. De acordo com Grande Elder Guru, Piccolo, junto com Kami e o Rei Piccolo, fazem parte do Clã Dragão, que foram os criadores originais das Esferas do Dragão. Um guerreiro sábio e astuto que originalmente era um inimigo implacável de Goku, Piccolo mais tarde se torna um membro permanente do Dragon Team, em grande parte devido ao respeito mútuo de Goku e ainda mais por formar um vínculo estreito com o filho primogênito de Goku, Gohan.",
+      "saúde": "230.000",
+      "ataque": "25.000",
+      "defesa": "25.000",
+      "kiRestoreSpeed": "25.000",
+      "habilidades": [
+        "Canhão de feixe especial",
+        "Triforme",
+        "Granada Leve"
+      ],
+      "img": "assets/piccolo.png"
+    },
+    {
+      "id": "gotenks",
+      "nome": "Gotenks",
+      "raça": "Humano/Saiyajin",
+      "género masculino",
+      "bio": "Gotenks, anteriormente conhecido como Trunkten, é o resultado imensamente poderoso de Trunks e Goten usando com sucesso a Fusion Dance, e o primeiro personagem de dança de fusão bem-sucedido a ser visto na série Dragon Ball. Ele gosta de se chamar, O Herói da Justiça ou Ceifador da Justiça.",
+      "saúde": "320.000",
+      "ataque": "35.000",
+      "defesa": "35.000",
+      "kiRestoreSpeed": "35.000",
+      "habilidades": [
+        "Transformações do Super Saiyajin",
+        "Donut Galáctico",
+        "Ataque Kamikaze do Super Fantasma"
+      ],
+      "img": "assets/gotenks.png"
+    },
+    {
+      "id": "acerto",
+      "nome": "Acerto",
+      "raça": "Desconhecido",
+      "género masculino",
+      "bio": "Hit, conhecido como Never-Miss Hit e como o Legendary Hitman é o lendário assassino do Universo 6. Além disso, ele também mais tarde se torna o líder do Team Universe 6. Hit mostra pouca emoção, gosta de desafiar a si mesmo, e é honrado.",
+      "saúde": "460.000",
+      "ataque": "46.000",
+      "defesa": "46.000",
+      "kiRestoreSpeed": "46.000",
+      "habilidades": [
+        "Pular Tempo",
+        "Sopro da morte",
+        "Ataque de ponto vital"
+      ],
+      "img": "assets/hit.png"
+    },
+    {
+      "id": "krillin",
+      "nome": "Krillin",
+      "raça": "Humano",
+      "género masculino",
+      tornando-se marido de Androide 18 e pai de Marron. No entanto, ele retorna ao seu estilo de vida como um guerreiro mais tarde em Dragon Ball Super.",
+      "saúde": "180.000",
+      "ataque": "20.000",
+      "defesa": "20.000",
+      "kiRestoreSpeed": "20.000",
+      "habilidades": [
+        "Onda Kamehameha",
+        "Disco Destruidor",
+        "Explosão solar"
+      ],
+      "img": "assets/krillin.png"
+    },
+    {
+      "id": "jiren",
+      "nome": "Jiren",
+      "raça": "Desconhecido",
+      "género masculino",
+      "bio": "Jiren, também conhecido como Jiren The Grey, é um membro da Pride Troopers que participou do Torneio do Poder com o objetivo de obter um desejo das Super Esferas do Dragão. Jiren é um lutador quieto e honrado, que acredita na força e na justiça.",
+      "saúde": "740.000",
+      "ataque": "74.000",
+      "defesa": "74.000",
+      "kiRestoreSpeed": "74.000",
+      "habilidades": [
+        "Explosão de Olhos Invisíveis",
+        "Barreira de Energia",
+        "Magnetron superaquecido"
+      ],
+      "img": "assets/jiren.png"
+    },
+    {
+      "id": "tien",
+      "nome": "Tien",
+      "raça": "Humano",
+      "género masculino",
+      "bio": "Tien Shinhan é um artista marcial disciplinado, recluso e fortemente dedicado, e um dos terráqueos mais fortes do universo Dragon Ball. Ele também possui algumas características não humanas devido a ser descendente do Povo de Três Olhos. Ele era originalmente um aluno da Escola Crane que desejava vingança contra Goku por derrotar seu mentor, Mercenary Tao, mas percebeu que estava do lado errado com a ajuda do Mestre Kame. Ele luta ao lado dos outros Guerreiros Z quando grandes ameaças à Terra superfície, muitas vezes enfrentando corajosamente inimigos muito mais poderosos do que ele. No entanto, ele passa a maior parte do tempo treinando com seu melhor amigo de toda a vida, Chiaotzu.",
+      "saúde": "170.000",
+      "ataque": "18.000",
+      "defesa": "18.000",
+      "kiRestoreSpeed": "19.000",
+      "habilidades": [
+        "Tri-feixe",
+        "Explosão solar",
+        "Triforme"
+      ],
+      "img": "assets/tien.png"
+    },
+    {
+      "id": "andróide 17",
+      "nome": "Android 17",
+      "raça": "Android",
+      "género masculino",
+      "bio": "Android 17, Lapis quando era um humano comum, é o irmão gêmeo do Android 18 e a décima sétima criação andróide do Dr. Gero, projetada para servir à vingança de Gero contra Goku. Apesar de seus interesses inicialmente não se desviarem dessa expectativa, Android 17 se encarrega de matar o Dr. Gero, que não coopera com a curiosidade do Android 18 em ativar o Android 16 e considerado inferior por 17. O Android 17 retorna uma década depois em Dragon Ball Super, trabalhando como um guarda florestal do parque nacional preservando a vida selvagem de caçadores furtivos. Ele é casado e tem um filho, com mais dois filhos sendo adotados. Ele é convidado por Goku para se juntar ao Time Universo 7 no Torneio do Poder e devido ao sacrifício de Goku e Frieza para derrotar Jiren,ele é deixado como o único lutador restante até o final do torneio e aquele que faz o desejo nas Super Esferas do Dragão.",
+      "saúde": "440.000",
+      "ataque": "43.000",
+      "defesa": "42.000",
+      "kiRestoreSpeed": "42.000",
+      "habilidades": [
+        "Transformações do Super Saiyajin",
+        "Super Kamehameha",
+        "Punho do Super Dragão"
+      ],
+      "img": "assets/android17.png"
+    },
+    {
+      "id": "andróide 18",
+      "nome": "Android 18",
+      "raça": "Android",
+      "Sexo: Feminino",
+      "bio": "Android 18, Humano Artificial No. 18, Razuri quando era um humano comum, é a irmã gêmea do Android 17 e a décima oitava criação andróide do Dr. Gero, projetada para servir à vingança de Gero contra Goku. Enquanto seus interesses não inicialmente se desviar dessa expectativa, sua curiosidade em ativar o Android 16, apesar das ordens de Gero para não fazê-lo, leva o Android 17 a assumir a responsabilidade de assassinar Gero. Eventualmente, o Android 18 se torna um membro dos Guerreiros Z, assim como a esposa de Kuririn e a mãe de sua filha Marron.",
+      "saúde": "420.000",
+      "ataque": "40.000",
+      "defesa": "40.000",
+      "kiRestoreSpeed": "40.000",
+      "habilidades": [
+        "Barreira Android",
+        "Bola de energia de força total",
+        "Blitz de Poder"
+      ],
+      "img": "assets/android18.png"
+    },
+    {
+      "id": "brolly",
+      "nome": "Broly",
+      "raça": "Saiyajin",
+      "género masculino",
+      Está implícito que a roupa foi feita de um material semelhante ao Battle Armor, independentemente de qual transformação de aumento de tamanho ele usou, sua roupa sempre permaneceu intacta e cresceu em tamanho com ele. Para controlar melhor Broly e seu poder enquanto sua instabilidade mental continuava a crescer, Paragus colocou uma coroa na testa de Broly, junto com pulseiras e um colar com uma placa plana sobre o peito, cada um dourado com uma gema azul. Broly também usava faixas douradas sobre seus bíceps. Depois de se libertar do controle de Paragas, a coroa e as braçadeiras de Broly foram destruídas. Após a derrota de Broly contra Goku, ele obteve marcas de queimaduras em seu peito.", Para controlar melhor Broly e seu poder enquanto sua instabilidade mental continuava a crescer, Paragus colocou uma coroa na testa de Broly, junto com pulseiras e um colar com uma placa plana sobre o peito, cada um dourado com uma gema azul. Broly também usava faixas douradas sobre seus bíceps. Depois de se libertar do controle de Paragas, a coroa e as braçadeiras de Broly foram destruídas. Após a derrota de Broly contra Goku, ele obteve marcas de queimaduras em seu peito.", Para controlar melhor Broly e seu poder enquanto sua instabilidade mental continuava a crescer, Paragus colocou uma coroa na testa de Broly, junto com pulseiras e um colar com uma placa plana sobre o peito, cada um dourado com uma gema azul. Broly também usava faixas douradas sobre seus bíceps. Depois de se libertar do controle de Paragas, a coroa e as braçadeiras de Broly foram destruídas. Após a derrota de Broly contra Goku, ele obteve marcas de queimaduras em seu peito.",
+      "saúde": "800.000",
+      "ataque": "80.000",
+      "defesa": "80.000",
+      "kiRestoreSpeed": "80.000",
+      "habilidades": [
+        "Transformações do Super Saiyajin",
+        "Canhão Borracha",
+        "Batida Gigante"
+      ],
+      "img": "assets/broly.png"
+    },
+    {
+      "id": "vegetal",
+      "nome": "Vegito",
+      "raça": "Saiyajin",
+      "género masculino",
+      e veste o estilo de roupa de Goku com as cores invertidas, refletindo a roupa de Vegeta; ele usa um kimono azul e uma faixa com uma camiseta laranja. Também de Vegeta, ele usa luvas e botas brancas. Em Super Dragon Ball Heroes, Vegito usa um kimono preto com uma camisa laranja por dentro e um obi azul amarrado na cintura. Ele também usa as luvas e botas brancas de Vegeta de Dragon Ball Z: Resurrection F.",
+      "saúde": "780.000",
+      "ataque": "70.000",
+      "defesa": "60.000",
+      "kiRestoreSpeed": "60.000",
+      "habilidades": [
+        "Transformações do Super Saiyajin",
+        "Final Kamehameha",
+        "Corte de Espada de Raio"
+      ],
+      "img": "assets/vegito.png"
+    },
+    {
+      "id": "gogeta",
+      "nome": "Gogeta",
+      "raça": "Saiyajin",
+      "género masculino",
+      com as únicas diferenças sendo que Gogeta tem apenas uma mecha de cabelo pendurada livre em vez de duas e Gogeta tendo o pico da viúva de Vegeta. Gogeta também adquire a pele de pêssego de Goku ao invés de adotar o bronzeado mais suave de Vegeta. Gogeta possui a estrutura corporal de Goku, pois ele é alto e esguio, mas parece possuir principalmente as características faciais de Vegeta.",
+      "saúde": "700.000",
+      "ataque": "60.000",
+      "defesa": "55.000",
+      "kiRestoreSpeed": "55.000",
+      "habilidades": [
+        "Transformações do Super Saiyajin",
+        "Big Bang Kamehameha",
+        "Destruidor de Poeira Estelar"
+      ],
+      "img": "assets/gogeta.png"
+    },
+    {
+      "id": "goku black",
+      "nome": "Goku Black",
+      "raça": "Saiyajin",
+      "género masculino",
+      Depois de roubar o corpo de Goku do presente original, ele passou por mudanças físicas. Embora ainda essencialmente idêntico, ele tem um tom de pele ligeiramente mais escuro e olhos mais definidos, junto com um físico um pouco mais magro. Seu cabelo também é um tom visivelmente escuro de preto com apenas quatro picos frontais e três traseiros. Embora inicialmente vestindo seu traje de Supremo Kai, ele logo após tomar o corpo de Goku começou a usar uma túnica cinza escura sem mangas, uma camiseta preta de manga comprida com gola alta, uma faixa vermelha, calças pretas e botas brancas. Ele também deu o brinco Potara direito para sua futura contraparte enquanto ainda usava o outro brinco em sua orelha esquerda. No anime, ele também usa um Anel do Tempo em seu dedo indicador direito, enquanto no mangá, sua contraparte é confiada para usá-lo. Além disso, no mangá, ele tem contornos escuros ao redor dos olhos.",
+      "saúde": "480.000",
+      "ataque": "480.000",
+      "defesa": "48.000",
+      "kiRestoreSpeed": "48.000",
+      "habilidades": [
+        "Transformações do Super Saiyajin",
+        "Preto Kamehameha",
+        "Cortador de Deus"
+      ],
+      "img": "assets/gokublack.png"
+    }
+  ]
+}
